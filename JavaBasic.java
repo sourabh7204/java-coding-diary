@@ -1,7 +1,9 @@
-public class JavaBasics{
+public class JavaBasic {
+
     public static void main(String args[]){
     System.out.println("Hello Sourabh Vishwakarma!");
     System.out.println("Hello Sourabh Vishwakarma!");
     System.out.println("Hello Sourabh Vishwakarma!");
     }
 }
+

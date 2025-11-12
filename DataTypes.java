@@ -1,6 +1,6 @@
 public class DataTypes {
     public static void main(String[] args) {
-        //Bytes 
+        //Bytes - used very less
         byte b=7;
         System.out.println(b);
         //Character a single value will be stored

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Average of 3 Numbers
 public class Solution1 {
 
     public static void main(String[] args) {

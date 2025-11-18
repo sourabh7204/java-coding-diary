@@ -10,8 +10,7 @@ public class ifelse {
     }
     if(age >13 && age<18 ){
          System.out.println("You are in your teenager");
-    }
-    else{
+    } else{
         System.out.println("He/She is not Adult");
     }
    } 

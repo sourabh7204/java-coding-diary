@@ -10,8 +10,7 @@ int exp2 = (x * (y / x));
 System.out.print(exp1 + " , ");
 System.out.print(exp2);
 }}
-Output:
-5 , 4
+
 
 (ii)
 public class Test {
@@ -27,8 +26,7 @@ if((y+200) < x && (y+150) < z){
 System.out.println("Hello Java");
 }
 }}
-Output:
-Java
+
 
 (iii)
 public class Test {
@@ -40,8 +38,7 @@ y -= z;
 z /= (x + y);
 System.out.println(x + " " + y + " " + z);
 }}
-Output:
-4 0 0
+
 
 (iv)
 public class Test {
@@ -51,8 +48,7 @@ int a = 2, b = 4, c = 6;
 int exp = 4/3 * (x + 34) + 9 * (a + b * c) + (3 + y * (2 + a)) / (a + b*y);
 System.out.println(exp);
 }}
-Output:
-278
+
 
 (v)
 public class Test {
@@ -63,6 +59,3 @@ int exp2 = (y * x / y + y * x / y);
 System.out.println(exp1);
 System.out.println(exp2);
 }}
-Output:
-20
-20

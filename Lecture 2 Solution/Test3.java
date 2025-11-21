@@ -8,4 +8,5 @@ z /= (x + y);
 System.out.println(x + " " + y + " " + z);
 }}
 
-//Output is : 4 0 0
+//Output is : 
+//4 0 0

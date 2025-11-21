@@ -7,4 +7,5 @@ System.out.print(exp1 + " , ");
 System.out.print(exp2);
 }}
 
-//Output is : 5 , 4
+//Output is :
+//  5 , 4

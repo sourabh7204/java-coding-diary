@@ -12,5 +12,5 @@ System.out.println("Hello Java");
 }
 }}
 
-//Outupt is : 
+//Outupt is: 
 //Java

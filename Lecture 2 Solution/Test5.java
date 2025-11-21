@@ -7,6 +7,6 @@ System.out.println(exp1);
 System.out.println(exp2);
 }}
 
-//Output is  :
+//Output is:
 //20
 //20

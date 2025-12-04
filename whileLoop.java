@@ -8,6 +8,8 @@ public class whileLoop {
         //     counter++;
         // }
 
+
+        //Printing 1 to 10 natural number
         //  int num=1;
         // while (num<=10){
         //     System.out.println(num);
@@ -15,6 +17,7 @@ public class whileLoop {
         // }
 
 
+        //Printing natural numbers
     //     Scanner sc = new Scanner(System.in);
     //     System.out.print("Enter n value: ");
     //     int n = sc.nextInt();
@@ -25,6 +28,7 @@ public class whileLoop {
     //     }
 
 
+    //Finding Sum of Natural numbers
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter n value: ");
         int n = sc.nextInt();

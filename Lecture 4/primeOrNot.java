@@ -10,7 +10,7 @@ public class primeOrNot {
             System.out.println("n is a prime number");
         }else{
             boolean isPrime=true;
-            for (int i = 2; i<=n-1; i++){
+            for (int i = 2; i<=Math.sqrt(n); i++){
                 if(n%i==0){  // n is a multiple of i ( i is not equal to 1 or n)
                 isPrime=false;
                 }
